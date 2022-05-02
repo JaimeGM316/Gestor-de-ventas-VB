@@ -1,0 +1,4 @@
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\GestorDeVentas\GestorDeVentas\bin\Debug\Practica9.exe.config
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\GestorDeVentas\GestorDeVentas\obj\Debug\Practica9.exe
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\GestorDeVentas\GestorDeVentas\obj\Debug\Practica9.xml
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\GestorDeVentas\GestorDeVentas\obj\Debug\Practica9.pdb

@@ -1,0 +1,37 @@
+c:\users\dam2b-08\documents\visual studio 2015\Projects\Practica9\Practica9\bin\Debug\Practica9.exe.config
+c:\users\dam2b-08\documents\visual studio 2015\Projects\Practica9\Practica9\bin\Debug\Practica9.exe
+c:\users\dam2b-08\documents\visual studio 2015\Projects\Practica9\Practica9\bin\Debug\Practica9.pdb
+c:\users\dam2b-08\documents\visual studio 2015\Projects\Practica9\Practica9\bin\Debug\Practica9.xml
+c:\users\dam2b-08\documents\visual studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.vbprojResolveAssemblyReference.cache
+c:\users\dam2b-08\documents\visual studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.Resources.resources
+c:\users\dam2b-08\documents\visual studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.frmPrincipal.resources
+c:\users\dam2b-08\documents\visual studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.vbproj.GenerateResource.Cache
+c:\users\dam2b-08\documents\visual studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.exe
+c:\users\dam2b-08\documents\visual studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.xml
+c:\users\dam2b-08\documents\visual studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.pdb
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\bin\Debug\Practica9.exe.config
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.exe
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.xml
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.pdb
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.vbprojResolveAssemblyReference.cache
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.Resources.resources
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.frmListados.resources
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.frmMenu.resources
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.frmPrincipal.resources
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\obj\Debug\Practica9.vbproj.GenerateResource.Cache
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\bin\Debug\Practica9.exe
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\bin\Debug\Practica9.pdb
+C:\Users\empol\Documents\Visual Studio 2015\Projects\Practica9\Practica9\bin\Debug\Practica9.xml
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\bin\Debug\Practica9.exe.config
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\bin\Debug\Practica9.exe
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\bin\Debug\Practica9.pdb
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\bin\Debug\Practica9.xml
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\obj\Debug\Practica9.vbprojResolveAssemblyReference.cache
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\obj\Debug\Practica9.Resources.resources
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\obj\Debug\Practica9.frmListados.resources
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\obj\Debug\Practica9.frmMenu.resources
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\obj\Debug\Practica9.frmPrincipal.resources
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\obj\Debug\Practica9.vbproj.GenerateResource.Cache
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\obj\Debug\Practica9.exe
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\obj\Debug\Practica9.xml
+C:\Users\empol\Desktop\Proyecto DAM\Texturas - Todas\ixelFantasy_Caves\Git Hub\Gestor de ventas\Practica9\Practica9\obj\Debug\Practica9.pdb
